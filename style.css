@@ -1,0 +1,756 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: #ffffff;
+  height: 8500px;
+  position: relative;
+  overflow: hidden;
+}
+.image-25 {
+  width: 861px;
+  height: 1371px;
+  position: absolute;
+  left: 1164px;
+  top: 2908px;
+  object-fit: cover;
+}
+.image-26 {
+  width: 833px;
+  height: 1326px;
+  position: absolute;
+  left: -27px;
+  top: 4186px;
+  object-fit: cover;
+}
+.image-27 {
+  width: 861px;
+  height: 1371px;
+  position: absolute;
+  left: 1164px;
+  top: 5507px;
+  object-fit: cover;
+}
+.rectangle-23 {
+  background: #000000;
+  width: 1920px;
+  height: 106px;
+  position: absolute;
+  left: 0px;
+  top: 7470px;
+}
+.image-18 {
+  width: 281px;
+  height: 201px;
+  position: absolute;
+  left: 0px;
+  top: 4460px;
+  object-fit: cover;
+}
+.image-19 {
+  width: 281px;
+  height: 201px;
+  position: absolute;
+  left: 0px;
+  top: 4699px;
+  object-fit: cover;
+}
+.image-20 {
+  width: 289px;
+  height: 206px;
+  position: absolute;
+  left: 281px;
+  top: 4697px;
+  object-fit: cover;
+}
+.image-24 {
+  width: 267px;
+  height: 190px;
+  position: absolute;
+  left: 1649px;
+  top: 6074px;
+  object-fit: cover;
+}
+.image-13 {
+  width: 831px;
+  height: 1004px;
+  position: absolute;
+  left: 1097px;
+  top: 4302px;
+  object-fit: cover;
+}
+.image-12 {
+  width: 831px;
+  height: 1004px;
+  position: absolute;
+  left: -34px;
+  top: 5748px;
+  object-fit: cover;
+}
+.rectangle-19 {
+  background: #000000;
+  width: 1920px;
+  height: 102px;
+  position: absolute;
+  left: 0px;
+  top: 2857px;
+}
+.rectangle-21 {
+  background: #000000;
+  width: 1920px;
+  height: 102px;
+  position: absolute;
+  left: 0px;
+  top: 4177px;
+}
+.rectangle-22 {
+  background: #000000;
+  width: 1920px;
+  height: 102px;
+  position: absolute;
+  left: 0px;
+  top: 5410px;
+}
+.rectangle-20 {
+  background: #000000;
+  width: 1920px;
+  height: 102px;
+  position: absolute;
+  left: 0px;
+  top: 6774px;
+}
+.image-122 {
+  width: 831px;
+  height: 1004px;
+  position: absolute;
+  left: 0px;
+  top: 3087px;
+  object-fit: cover;
+}
+.rectangle-192 {
+  background: #000000;
+  width: 1920px;
+  height: 189px;
+  position: absolute;
+  left: 0px;
+  top: 2269px;
+}
+.rectangle-18 {
+  background: #000000;
+  width: 2017px;
+  height: 90px;
+  position: absolute;
+  left: -24px;
+  top: 1121px;
+}
+.image-7 {
+  width: 2017px;
+  height: 874px;
+  position: absolute;
+  left: 0px;
+  top: 1403px;
+  object-fit: cover;
+}
+._2011-25-6-2020-15-9-2015-80-6 {
+  color: #000000;
+  text-align: center;
+  position: absolute;
+  left: 848px;
+  top: 3222px;
+  width: 501px;
+  height: 197px;
+}
+._2011-25-6-2020-15-9-2015-80-6-span {
+  color: #000000;
+  font-family: "NotoSans-DisplaySemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 160%;
+  font-weight: 400;
+}
+._2011-25-6-2020-15-9-2015-80-6-span2 {
+  color: #000000;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 17px;
+  line-height: 160%;
+  font-weight: 400;
+}
+._2011-12-1-2021-4-5-2011-7-3-2020-2-7-1-7-1-1 {
+  color: #000000;
+  text-align: center;
+  position: absolute;
+  left: 845px;
+  top: 3765px;
+  width: 501px;
+  height: 191px;
+}
+._2011-12-1-2021-4-5-2011-7-3-2020-2-7-1-7-1-1-span {
+  color: #000000;
+  font-family: "NotoSans-DisplaySemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 160%;
+  font-weight: 400;
+}
+._2011-12-1-2021-4-5-2011-7-3-2020-2-7-1-7-1-1-span2 {
+  color: #000000;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 17px;
+  line-height: 160%;
+  font-weight: 400;
+}
+._1998-66-3-2011-46-1-2020-34-0-2011-2020-6-7 {
+  color: #000000;
+  text-align: center;
+  position: absolute;
+  left: 848px;
+  top: 3495px;
+  width: 501px;
+  height: 194px;
+}
+._1998-66-3-2011-46-1-2020-34-0-2011-2020-6-7-span {
+  color: #000000;
+  font-family: "NotoSans-DisplaySemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 160%;
+  font-weight: 400;
+}
+._1998-66-3-2011-46-1-2020-34-0-2011-2020-6-7-span2 {
+  color: #000000;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 17px;
+  line-height: 160%;
+  font-weight: 400;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+._2011-19-0-2021-12-5 {
+  color: #000000;
+  text-align: center;
+  position: absolute;
+  left: 835px;
+  top: 5791px;
+  width: 501px;
+  height: 197px;
+}
+._2011-19-0-2021-12-5-span {
+  color: #000000;
+  font-family: "NotoSans-DisplaySemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 160%;
+  font-weight: 400;
+}
+._2011-19-0-2021-12-5-span2 {
+  color: #000000;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 17px;
+  line-height: 160%;
+  font-weight: 400;
+}
+._2011-15-8-2021-2-3 {
+  color: #000000;
+  text-align: center;
+  position: absolute;
+  left: 847px;
+  top: 6334px;
+  width: 501px;
+  height: 191px;
+}
+._2011-15-8-2021-2-3-span {
+  color: #000000;
+  font-family: "NotoSans-DisplaySemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 160%;
+  font-weight: 400;
+}
+._2011-15-8-2021-2-3-span2 {
+  color: #000000;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 17px;
+  line-height: 160%;
+  font-weight: 400;
+}
+._2020-15-3-10-4 {
+  color: #000000;
+  text-align: center;
+  position: absolute;
+  left: 848px;
+  top: 6064px;
+  width: 501px;
+  height: 194px;
+}
+._2020-15-3-10-4-span {
+  color: #000000;
+  font-family: "NotoSans-DisplaySemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 160%;
+  font-weight: 400;
+}
+._2020-15-3-10-4-span2 {
+  color: #000000;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 17px;
+  line-height: 160%;
+  font-weight: 400;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+._2000-50-2022-26-6-10 {
+  color: #000000;
+  text-align: center;
+  position: absolute;
+  left: 555px;
+  top: 4725px;
+  width: 501px;
+  height: 186px;
+}
+._2000-50-2022-26-6-10-span {
+  color: #000000;
+  font-family: "NotoSans-DisplaySemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 160%;
+  font-weight: 400;
+}
+._2000-50-2022-26-6-10-span2 {
+  color: #000000;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 17px;
+  line-height: 160%;
+  font-weight: 400;
+}
+._2011-23-2022-14-8-2018 {
+  color: #000000;
+  text-align: center;
+  position: absolute;
+  left: 555px;
+  top: 4456px;
+  width: 501px;
+  height: 183px;
+}
+._2011-23-2022-14-8-2018-span {
+  color: #000000;
+  font-family: "NotoSans-DisplaySemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 160%;
+  font-weight: 400;
+}
+._2011-23-2022-14-8-2018-span2 {
+  color: #000000;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 17px;
+  line-height: 160%;
+  font-weight: 400;
+}
+.div {
+  color: #000000;
+  text-align: center;
+  position: absolute;
+  left: 555px;
+  top: 4997px;
+  width: 501px;
+  height: 177px;
+}
+.div-span {
+  color: #000000;
+  font-family: "NotoSans-DisplaySemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 160%;
+  font-weight: 400;
+}
+.div-span2 {
+  color: #000000;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 17px;
+  line-height: 160%;
+  font-weight: 400;
+}
+.image-2 {
+  width: 1988px;
+  height: 602px;
+  position: absolute;
+  left: -34px;
+  top: 6868px;
+  object-fit: cover;
+}
+.image-3 {
+  width: 1960px;
+  height: 924px;
+  position: absolute;
+  left: -20px;
+  top: 7576px;
+  object-fit: cover;
+}
+._2015-2-500-4-500 {
+  color: #ffffff;
+  text-align: center;
+  position: absolute;
+  left: 1370px;
+  top: 6955px;
+  width: 444px;
+  height: 214px;
+}
+._2015-2-500-4-500-span {
+  color: #ffffff;
+  font-family: "NotoSans-DisplaySemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 160%;
+  font-weight: 400;
+}
+._2015-2-500-4-500-span2 {
+  color: #ffffff;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 17px;
+  line-height: 160%;
+  font-weight: 400;
+}
+._2010 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 17px;
+  line-height: 160%;
+  font-weight: 400;
+  position: absolute;
+  left: 1376px;
+  top: 7210px;
+  width: 444px;
+  height: 144px;
+}
+._2015 {
+  color: #ffffff;
+  text-align: center;
+  position: absolute;
+  left: 689px;
+  top: 8151px;
+  width: 490px;
+  height: 188px;
+}
+._2015-span {
+  color: #ffffff;
+  font-family: "NotoSans-DisplaySemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 160%;
+  font-weight: 400;
+}
+._2015-span2 {
+  color: #ffffff;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 17px;
+  line-height: 160%;
+  font-weight: 400;
+}
+.rectangle-13 {
+  width: 1920px;
+  height: 182px;
+  position: absolute;
+  left: 0px;
+  top: 1237px;
+  overflow: visible;
+}
+.image-5 {
+  width: 1920px;
+  height: 1120px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  object-fit: cover;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-14 {
+  background: #ffffff;
+  width: 586px;
+  height: 544px;
+  position: absolute;
+  left: 1096px;
+  top: 1440px;
+  box-shadow: 0px 4px 50px 0px rgba(0, 0, 0, 0.25),
+    0px 4px 50px 0px rgba(0, 0, 0, 0.25),
+    inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.image-6 {
+  width: 506px;
+  height: 469px;
+  position: absolute;
+  left: 1137px;
+  top: 1479px;
+  object-fit: cover;
+}
+.rectangle-15 {
+  background: #666666;
+  width: 63px;
+  height: 22px;
+  position: absolute;
+  left: 928px;
+  top: 1703px;
+}
+.rectangle-17 {
+  background: #974600;
+  width: 63px;
+  height: 22px;
+  position: absolute;
+  left: 69px;
+  top: 1703px;
+}
+.rectangle-16 {
+  background: #666666;
+  width: 63px;
+  height: 22px;
+  position: absolute;
+  left: 1787px;
+  top: 1703px;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.what-is-smoking {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-ExtraBold", sans-serif;
+  font-size: 40px;
+  line-height: 110%;
+  font-weight: 800;
+  position: absolute;
+  left: 230px;
+  top: 1549px;
+  width: 541px;
+  height: 133px;
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 17px;
+  line-height: 160%;
+  font-weight: 400;
+  position: absolute;
+  left: 230px;
+  top: 1723px;
+  width: 545px;
+}
+._10 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "NotoSans-DisplaySemiBold", sans-serif;
+  font-size: 28px;
+  line-height: 160%;
+  font-weight: 400;
+  position: absolute;
+  left: 1096px;
+  top: 736px;
+  width: 664px;
+  height: 48px;
+}
+.changes-in-smoking-rates-over-the-last-10-years-from-korea-japan-united-states {
+  color: #ffae00;
+  text-align: center;
+  position: absolute;
+  left: 937px;
+  top: 456px;
+  width: 913px;
+  height: 280px;
+}
+.changes-in-smoking-rates-over-the-last-10-years-from-korea-japan-united-states-span {
+  color: #f0be92;
+  font-family: "NotoSans-DisplayExtraBold", sans-serif;
+  font-size: 70px;
+  line-height: 160%;
+  font-weight: 400;
+}
+.changes-in-smoking-rates-over-the-last-10-years-from-korea-japan-united-states-span2 {
+  color: #f0be92;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 48px;
+  line-height: 160%;
+  font-weight: 400;
+}
+.changes-in-smoking-rates-over-the-last-10-years-from-korea-japan-united-states-span3 {
+  color: #f0be92;
+  font-family: "NotoSans-DisplayMedium", sans-serif;
+  font-size: 30px;
+  line-height: 160%;
+  font-weight: 400;
+}
+.line-1 {
+  margin-top: -3px;
+  border-style: solid;
+  border-color: #f0be92;
+  border-width: 3px 0 0 0;
+  width: 907px;
+  height: 0px;
+  position: absolute;
+  left: 940px;
+  top: 435px;
+}
+.line-2 {
+  margin-top: -3px;
+  border-style: solid;
+  border-color: #f0be92;
+  border-width: 3px 0 0 0;
+  width: 907px;
+  height: 0px;
+  position: absolute;
+  left: 940px;
+  top: 721px;
+}
+.image {
+  width: 1968px;
+  height: 399px;
+  position: absolute;
+  left: -24px;
+  top: 2458px;
+  object-fit: cover;
+}
+.image-9 {
+  width: 494px;
+  height: 329px;
+  position: absolute;
+  left: 108px;
+  top: 3378px;
+  box-shadow: 0px 4px 50px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.image-10 {
+  width: 494px;
+  height: 329px;
+  position: absolute;
+  left: 1317px;
+  top: 4650px;
+  box-shadow: 0px 4px 50px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.image-11 {
+  width: 497px;
+  height: 331px;
+  position: absolute;
+  left: 74px;
+  top: 6049px;
+  box-shadow: 0px 4px 50px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.comparison-of-smoking-rates {
+  color: #f0be92;
+  text-align: center;
+  font-family: "NotoSans-DisplayBold", sans-serif;
+  font-size: 80px;
+  line-height: 160%;
+  font-weight: 400;
+  position: absolute;
+  left: 431px;
+  top: 2610px;
+  width: 1156px;
+  height: 95px;
+}
+.image-14 {
+  width: 267px;
+  height: 190px;
+  position: absolute;
+  left: 1364px;
+  top: 3246px;
+  object-fit: cover;
+}
+.image-15 {
+  width: 267px;
+  height: 190px;
+  position: absolute;
+  left: 1364px;
+  top: 3505px;
+  object-fit: cover;
+}
+.image-16 {
+  width: 273px;
+  height: 196px;
+  position: absolute;
+  left: 1646px;
+  top: 3499px;
+  object-fit: cover;
+}
+.image-17 {
+  width: 281px;
+  height: 201px;
+  position: absolute;
+  left: 1349px;
+  top: 3768px;
+  object-fit: cover;
+}
+.image-21 {
+  width: 281px;
+  height: 201px;
+  position: absolute;
+  left: 0px;
+  top: 4946px;
+  object-fit: cover;
+}
+.image-22 {
+  width: 270px;
+  height: 203px;
+  position: absolute;
+  left: 1364px;
+  top: 5785px;
+  object-fit: cover;
+}
+.image-23 {
+  width: 294px;
+  height: 210px;
+  position: absolute;
+  left: 1364px;
+  top: 6054px;
+  object-fit: cover;
+}
+.rectangle-24 {
+  background: linear-gradient(
+    0deg,
+    rgba(126, 86, 0, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  width: 1920px;
+  height: 102px;
+  position: absolute;
+  left: 0px;
+  top: 2908px;
+}
+.rectangle-25 {
+  background: linear-gradient(
+    0deg,
+    rgba(126, 86, 0, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  width: 1920px;
+  height: 102px;
+  position: absolute;
+  left: 0px;
+  top: 4228px;
+}
+.rectangle-26 {
+  background: linear-gradient(
+    0deg,
+    rgba(126, 86, 0, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  width: 1920px;
+  height: 102px;
+  position: absolute;
+  left: 0px;
+  top: 5456px;
+}
+.group-12 {
+  height: auto;
+  position: absolute;
+  left: 224px;
+  top: 1698px;
+  overflow: visible;
+}
+.image-242 {
+  width: 293px;
+  height: 210px;
+  position: absolute;
+  left: 1367px;
+  top: 6338px;
+  object-fit: cover;
+}
